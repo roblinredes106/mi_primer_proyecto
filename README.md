@@ -4,3 +4,5 @@
 
 Hoy es mi primer día aprendiendo Git en serio.
 
+Ahora le tengo que poner en GitHub el título (Summary y la descripción opcional)
+
