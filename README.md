@@ -2,7 +2,7 @@
 
 \# Bitácora de Aprendizaje
 
-&#x20;  Hoy es mi primer día aprendiendo Git en serio.
+Hoy es mi primer día aprendiendo Git en serio.
 
-&#x20;  asdasdasdasdasdajksdhaskjdhaskjdhskjfhgskjdfhskjf
+Ahora le tengo que poner en GitHub el título (Summary y la descripción opcional)
 
